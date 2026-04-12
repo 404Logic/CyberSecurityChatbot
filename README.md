@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # 🔒 CyberSecurity Awareness Chatbot
 
+=======
+>>>>>>> c227bcd17cb9a0f244fcedf47d28cb1776f5b15c
 [![.NET](https://github.com/dotnet/core/workflows/.NET/badge.svg)](https://github.com/dotnet/core)
 
 [![CI](https://github.com/ronew/CyberSecurityChatbot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ronew/CyberSecurityChatbot/actions/workflows/dotnet.yml)
